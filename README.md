@@ -11,6 +11,7 @@ A python app which allows you to keep a local copy of your favourite spotify tra
 * Requests
 * Pafy
 * Tkinter
+* Spotify API 
 * Python Version 3
 ```
 ## Help
