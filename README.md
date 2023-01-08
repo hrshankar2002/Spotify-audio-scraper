@@ -1,4 +1,4 @@
-# Spotify Music Downloader
+# Spotify Audio Scraper
 ## Description
 ```
 A python app which allows you to keep a local copy of your favourite spotify tracks while enjoying them.
