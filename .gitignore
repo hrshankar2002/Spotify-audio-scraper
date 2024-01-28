@@ -1,5 +1,7 @@
-# ignore ALL .log files
+.DS_Store
+__pycache__
 *.mp4
 *.webm
 *.png
-#ignore folders
+.env
+venv
